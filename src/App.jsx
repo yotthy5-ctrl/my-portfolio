@@ -44,8 +44,8 @@ function App() {
           {/* カードのdivタグ */}
           <div className='flex flex-wrap'>
             <div className='md:w-1/3 p-4'>
-              <div className='bg-gray-100 rounded-lg'>
-                <div className='flex items-center'>
+              <div className='bg-gray-100 rounded-lg p-8'>
+                <div className='flex items-center' mb-3>
                   <div className='bg-green-500 text-white rounded-full'>
                     <svg
                       width="24"
@@ -69,8 +69,8 @@ function App() {
               </div>
             </div>
             <div className='md:w-1/3 p-4'>
-              <div className='bg-gray-100 rounded-lg'>
-                <div className='flex items-center'>
+              <div className='bg-gray-100 rounded-lg p-8'>
+                <div className='flex items-center mb-3'>
                   <div className='bg-green-500 text-white rounded-full'>
                     <svg
                       width="24"
@@ -94,8 +94,8 @@ function App() {
               </div>
             </div>
             <div className='md:w-1/3 p-4'>
-              <div className='bg-gray-100 rounded-lg'>
-                <div className='flex items-center'>
+              <div className='bg-gray-100 rounded-lg p-8'>
+                <div className='flex items-center mb-3'>
                   <div className='bg-green-500 text-white rounded-full'>
                     <svg
                       width="24"
